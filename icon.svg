@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">たけシンキング</title>
+  <rect width="512" height="512" rx="112" fill="#07111f" />
+  <path d="M112 152h288v160H244l-84 64v-64h-48z" fill="#71e6ad" />
+  <circle cx="190" cy="232" r="22" fill="#07111f" />
+  <circle cx="256" cy="232" r="22" fill="#07111f" />
+  <circle cx="322" cy="232" r="22" fill="#07111f" />
+</svg>
